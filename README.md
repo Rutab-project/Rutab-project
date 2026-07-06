@@ -18,7 +18,7 @@
 
 <!-- See the "How to embed the video" note below — replace this section once the clip is uploaded -->
 
-> 🎬 A full walkthrough of the HR and candidate journeys is available in [`demo/Rutab_demo.mp4`](./demo/Rutab_demo.mp4).
+> 🎬 A full walkthrough of the HR and candidate journeys is available in [`demo/Rutab_demo.mp4`](https://github.com/Rutab-project/Rutab-project/raw/main/demo/Rutab_demo.mp4).
 
 ---
 
